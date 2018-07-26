@@ -1,0 +1,7 @@
+I am doing this for fun. I would like to actually take the time to be creative
+with my programming because I get really sick of sitting and watching tutorials.
+So this is my opportunity to apply what I learned and go from there.
+
+I figured out how to make it so that my controllers work on the routers.
+- You do this by simply making the controllers the call back functions of each route.
+- Make sure that you use the request and response objects as parameters in each function.
